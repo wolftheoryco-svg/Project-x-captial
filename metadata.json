@@ -1,0 +1,6 @@
+{
+  "name": "Project X Capital",
+  "description": "AI-powered quantitative trading hedge fund dashboard and agent terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

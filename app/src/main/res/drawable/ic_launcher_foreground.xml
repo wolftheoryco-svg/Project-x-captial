@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Luxurious Golden Hexagon Base Frame -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,14 L88,34 L88,74 L54,94 L20,74 L20,34 Z" />
+    <!-- Slick Obsidian Cut-Out "X" Logo inside Hexagon -->
+    <path
+        android:fillColor="#0C0E14"
+        android:pathData="M36,32 L46,32 L54,48 L62,32 L72,32 L58,54 L73,76 L63,76 L54,60 L45,76 L35,76 L50,54 Z" />
+</vector>
